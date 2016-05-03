@@ -1,0 +1,25 @@
+{
+  "name": "accord-babel-legacy",
+  "version": "1.0.1",
+  "description": "Accord adapter for Legacy Babel (supports 4.x and 5.x)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/davej/accord-babel-legacy.git"
+  },
+  "keywords": [
+    "accord",
+    "babel"
+  ],
+  "author": "Dave Jeffery <dave@davejeffery.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "accord": "*"
+  },
+  "dependencies": {
+    "when": "^3.7.7"
+  }
+}
